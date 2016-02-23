@@ -3,7 +3,6 @@
 
 # No need to code as a decision tree as such, just do it directly
 
-source("gen_params.R")
 
 
 
